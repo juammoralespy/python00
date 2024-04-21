@@ -1,6 +1,6 @@
 # convert.py
 # un programa para convertir celsius a farenthei
-# por juan morales
+# por juan morales 20-abr-2024
 
 def main():
     celsius = eval(input("Cual es la temperatura en celsius?: "))
